@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
     
-  system_shortcuts: ^1.0.0
+  system_shortcuts: ^1.0.1
 
 flutter:
   plugin:
