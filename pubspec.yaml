@@ -11,7 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
     
-  system_shortcuts: ^1.0.1
+  system_shortcuts:
+    git: https://github.com/Aman-Malhotra/SystemShortcutsFlutter
+    ref: cecd67d99f93ba457f158ac82cec359e5f68ba4a
 
 flutter:
   plugin:
